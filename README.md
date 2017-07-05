@@ -77,6 +77,8 @@ sudo mv ~/Downloads/fly /usr/local/bin
 sudo chmod 0755 /usr/local/bin/fly
 ```
 
+Notes that use ANSI escape sequence to colorize the output which is not supported by Windows console. [http://conemu.github.io/](ConEmu) is a Windows console that provides colorization support.
+
 Target Concourse
 ----------------
 
